@@ -3,7 +3,6 @@ title: "刚体变换"
 date: "2024-09-10"
 tags: ["Computer Vision"]
 showTableOfContents: true
-showComments: true
 ---
 
 {{< katex >}}

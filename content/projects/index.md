@@ -5,7 +5,6 @@ showBreadcrumbs: false
 showDate: false
 showReadingTime: false
 showWordCount: false
-showComments: false
 showEdit: false
 showPagination: false
 showZenMode: false

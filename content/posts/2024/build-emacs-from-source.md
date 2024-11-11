@@ -4,7 +4,6 @@ date: "2024-03-08"
 categories: ["Emacs"]
 tags: ["Linux", "WSL"]
 showTableOfContents: true
-showComments: true
 ---
 
 Windows 11 features [built-in support for running Linux GUI applications](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps). Emacs 29 has became a real GTK application, gone with the blurry fonts problem.

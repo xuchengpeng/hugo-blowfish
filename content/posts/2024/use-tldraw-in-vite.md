@@ -4,7 +4,6 @@ date: "2024-07-31"
 categories: ["Web"]
 tags: ["Vite"]
 showTableOfContents: true
-showComments: true
 ---
 
 [Vite](https://vitejs.dev/) is a build tool that aims to provide a faster and leaner development experience for modern web projects. Is consists of two major parts:

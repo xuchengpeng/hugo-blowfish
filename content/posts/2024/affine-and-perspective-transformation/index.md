@@ -3,7 +3,6 @@ title: "仿射变换与透视变换"
 date: "2024-09-11"
 tags: ["Computer Vision"]
 showTableOfContents: true
-showComments: true
 ---
 
 {{< katex >}}

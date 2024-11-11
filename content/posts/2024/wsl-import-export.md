@@ -4,7 +4,6 @@ date: "2024-08-13"
 categories: ["Linux"]
 tags: ["WSL"]
 showTableOfContents: true
-showComments: true
 ---
 
 默认情况WSL会安装在C盘，可以将其迁移到其他盘，这里使用WSL提供的导入和导出命令。
