@@ -32,7 +32,7 @@ smartTOCHideUnfocusedChildren = false
 # forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-custom" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
