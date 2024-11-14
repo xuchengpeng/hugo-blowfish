@@ -9,7 +9,7 @@ title = "Chuck"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "img/blowfish_logo_transparent.png"
+  logo = "img/logo_transparent.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Chuck"
 [params.author]
   name = "Chuck"
   email = "330476629@qq.com"
-  image = "img/chuck.png"
+  image = "img/logo.png"
   imageQuality = 96
   headline = "如有一味绝境，非历十方生死。"
   # bio = "A little bit about you"
