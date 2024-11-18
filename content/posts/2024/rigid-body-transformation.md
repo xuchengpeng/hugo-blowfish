@@ -1,6 +1,7 @@
 ---
 title: "刚体变换"
 date: "2024-09-10"
+categories: ["Computer Science"]
 tags: ["Computer Vision"]
 showTableOfContents: true
 ---

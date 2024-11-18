@@ -1,7 +1,7 @@
 ---
 title: "算力"
 date: "2024-11-11"
-categories: ["Computer"]
+categories: ["Computer Science"]
 ---
 
 FLOPS主要用于衡量处理器执行浮点运算的能力，适用于各种科学计算、工程应用和大规模数据处理任务。
