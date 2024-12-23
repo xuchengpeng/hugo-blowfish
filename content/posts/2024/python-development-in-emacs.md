@@ -42,6 +42,7 @@ line-length = 120
 ```elisp
 ((python-base-mode . ((python-indent-offset . 4)
                       (python-indent-guess-indent-offset-verbose . nil)
+                      (python-shell-interpreter . "python")
                       (python-shell-virtualenv-root . "/path/to/project/.venv/"))))
 ```
 
