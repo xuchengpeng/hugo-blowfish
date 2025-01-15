@@ -13,7 +13,7 @@ Emacs有不少LLM的客户端，这里我们选择[gptel](https://github.com/kar
   :commands (gptel gptel-send gptel-rewrite))
 ```
 
-gptel支持很多大型语言模型，大多数需要设置API Key或者Token，为了避免这些信息泄露，可以在 `custom.el` 中进行设定，这里以[Gemini](https://gemini.google.com/)为例。
+gptel支持很多大型语言模型，大多数需要设置API Key或者Token，为了避免这些信息泄露，可以在 `custom.el` 中进行设定，这里以[Gemini](https://gemini.google.com/)和[Github Models](https://github.com/marketplace/models)为例。
 
 ```emacs-lisp
 (with-eval-after-load 'gptel
