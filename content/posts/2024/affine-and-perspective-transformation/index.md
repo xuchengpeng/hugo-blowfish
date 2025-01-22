@@ -8,7 +8,7 @@ showTableOfContents: true
 
 {{< katex >}}
 
-![](affine-and-perspective-transformation.jpg)
+![](featured.jpg)
 
 ## 仿射变换
 
