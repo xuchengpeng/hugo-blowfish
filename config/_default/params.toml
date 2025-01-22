@@ -17,7 +17,7 @@ replyByEmail = false
 mainSections = ["posts"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
