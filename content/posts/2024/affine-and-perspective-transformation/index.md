@@ -8,7 +8,7 @@ showTableOfContents: true
 
 {{< katex >}}
 
-![](featured.jpg)
+![](transformation.jpg)
 
 ## 仿射变换
 
