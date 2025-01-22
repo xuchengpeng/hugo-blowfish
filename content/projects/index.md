@@ -10,8 +10,6 @@ showPagination: false
 showZenMode: false
 ---
 
-I try to find free time to learn something new.
-
 | Title                                                 | Description                                      | References                                                   |
 |:------------------------------------------------------|:-------------------------------------------------|:-------------------------------------------------------------|
 | .emacs.d {{< badge >}}Active{{< /badge >}}            | A vanilla Emacs configuration.                   | [github](https://github.com/xuchengpeng/.emacs.d)            |
