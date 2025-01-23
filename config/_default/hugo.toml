@@ -38,7 +38,8 @@ enableEmoji = true
   home = ["HTML", "RSS", "JSON"]
 
 [related]
-  threshold = 0
+  includeNewer = false
+  threshold = 20
   toLower = false
 
   [[related.indices]]
