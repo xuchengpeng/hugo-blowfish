@@ -5,7 +5,7 @@ categories: ["Web"]
 tags: ["CSS", "JavaScript"]
 ---
 
-发布博客时，压缩[CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)和[JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)文件的大小，能提升网页的加载速度，这里介绍使用[cssnano](https://github.com/cssnano/cssnano)和[UglifyJS](https://github.com/mishoo/UglifyJS)工具来压缩。
+发布博客时，压缩[CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)和[JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)文件的大小，能提升网页的加载速度，这里介绍使用[cssnano](https://github.com/cssnano/cssnano)和[Terser](https://github.com/terser/terser)工具来压缩。
 
 ## 压缩CSS
 
@@ -31,14 +31,14 @@ npx postcss input.css > output.css
 
 ## 压缩JavaScript
 
-首先安装UglifyJS:
+首先安装Terser:
 
 ```shell
-npm install --save-dev uglify-js
+npm install --save-dev terser
 ```
 
 使用以下命令进行JavaScript文件的压缩：
 
 ```shell
-npx uglifyjs input.js -c -m -o output.js
+npx terser input.js -c -m -o output.js
 ```
