@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 pagination.pagerSize = 12
-summaryLength = 5
+summaryLength = 10
 hasCJKLanguage = true
 
 buildDrafts = false

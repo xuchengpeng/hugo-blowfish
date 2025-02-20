@@ -48,7 +48,7 @@ smartTOCHideUnfocusedChildren = false
   showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "/hugo-blowfish/posts/"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -74,7 +74,7 @@ smartTOCHideUnfocusedChildren = false
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true
@@ -89,14 +89,14 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = true
   showCards = true
   orderByWeight = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -121,7 +121,7 @@ smartTOCHideUnfocusedChildren = false
   showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
 
 [firebase]
