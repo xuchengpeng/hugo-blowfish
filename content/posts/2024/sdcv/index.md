@@ -7,7 +7,7 @@ tags: ["sdcv", "StarDict"]
 
 [sdcv](https://github.com/Dushistov/sdcv) is a simple, cross-platform, text-based utility for working with dictionaries in [StarDict](https://stardict-4.sourceforge.net/) format.
 
-StarDict dictionaries can be downloaded from [https://www.nchrs.xyz/stardict/index.html](https://www.nchrs.xyz/stardict/index.html).
+StarDict dictionaries can be downloaded from [https://stardict.nchrs.xyz/](https://stardict.nchrs.xyz/) or [https://kdr2.com/resource/stardict.html](https://kdr2.com/resource/stardict.html).
 
 The [quick-sdcv](https://github.com/jamescherti/quick-sdcv.el) package serves as a lightweight Emacs interface for the sdcv command-line interface, which is the console version of the StarDict dictionary application.
 
