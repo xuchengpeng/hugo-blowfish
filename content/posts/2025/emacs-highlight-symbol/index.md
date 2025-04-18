@@ -1,5 +1,5 @@
 ---
-title: "Emacs中符号高亮"
+title: "Emacs中高亮符号"
 date: "2025-02-26"
 categories: ["Emacs"]
 ---
