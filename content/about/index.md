@@ -10,24 +10,5 @@ showPagination: false
 showZenMode: false
 ---
 
-{{< timeline >}}
-
-{{< timelineItem icon="star" header="HUST" badge="2006 - 2010" subheader="Bachelor's Degree" >}}
-Studying Computer Science and Technology at Huazhong University of Science and Technology.
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="star" header="sznari" badge="2011 - 2014" subheader="Software Engineer" >}}
-Working on the back-end software development for electric SCADA system and embedded equipments, good at C/C++, databases, QT and so on.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="star" header="Huawei" badge="2015 - Present" subheader="Team Leader, Software Architect, Software Engineer" >}}
-Working on the embedded software design and development for several products, including network equipments, enterprise equipments, vehicle equipments, good at C/C++/Python and so on.
-{{< /timelineItem >}}
-
-{{< timelineItem icon="star" header="Yinwang" badge="2025 - Present" subheader="Software Architect, Software Engineer" >}}
-Working on the embedded software design and development for vehicle equipments.
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
+<center>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。<br>
+料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。</center>
